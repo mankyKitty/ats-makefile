@@ -1,0 +1,12 @@
+license = "BSD3"
+with_readme = true
+
+[files]
+templates = [ "Makefile"
+            , "{{ project }}.dats"
+            , ".gitignore"
+            ]
+
+[config]
+version = "0.1.0"
+version_control = "git"
