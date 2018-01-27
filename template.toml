@@ -9,6 +9,7 @@ templates = [ "Makefile"
             , ".yamllint"
             , ".atsfmt.toml"
             ]
+scripts = [ "install.sh" ]
 
 [config]
 version = "0.1.0"
