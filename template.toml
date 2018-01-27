@@ -5,6 +5,9 @@ with_readme = true
 templates = [ "Makefile"
             , "{{ project }}.dats"
             , ".gitignore"
+            , ".travis.yml"
+            , ".yamllint"
+            , ".atsfmt.toml"
             ]
 
 [config]
